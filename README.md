@@ -1,4 +1,4 @@
-# Meme Maker Pro - Генератор мемов с продвинутым редактором
+# Meme generator - Генератор мемов с редактором
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://react.dev)
 [![React Router](https://img.shields.io/badge/React_Router-6.15.0-green)](https://reactrouter.com)
@@ -14,7 +14,7 @@
 - **Двойной режим редактирования**:
   - Редактирование по клику
   - Перетаскивание текста
-- **Экспорт в JPEG** с высоким качеством
+- **Экспорт в JPEG** 
 - **База мемов** через Imgflip API
 - **Адаптивный интерфейс** с сохранением пропорций
 
